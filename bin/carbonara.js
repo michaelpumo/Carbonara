@@ -35,7 +35,7 @@ const ingredientsList = [
   },
   {
     quantity: '200g',
-    description: 'Guanciale'
+    description: 'Guanciale (or Pancetta)'
   },
   {
     quantity: '3',
