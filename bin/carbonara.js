@@ -60,7 +60,7 @@ const ingredientsList = [
 ]
 
 const ingredientsMapped = ingredientsList.map(item => `${chalk.white.bold(item.quantity.padStart(padAmount, ' '))}: ${chalk.white(item.description)}`)
-const ingredientsFormatted = ingredientsMapped.join(' \n')
+const ingredientsFormatted = ingredientsMapped.join('\n')
 
 const data = {
   hero: chalk.hex(colors.red)(hero),
