@@ -1,0 +1,32 @@
+{
+  "name": "@michaelpumo/carbonara",
+  "version": "1.0.0",
+  "description": "🍝 Genuine recipe for Spaghetti Carbonara. Absolutely no cream!",
+  "main": "index.js",
+  "bin": {
+    "michaelpumo": "./bin/carbonara.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelpumo/Carbonara.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "michaelpumo"
+  ],
+  "author": "Michael Pumo <hello@michaelpumo.com> (https://michaelpumo.com)",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/michaelpumo/Carbonara/issues"
+  },
+  "homepage": "https://github.com/michaelpumo/Carbonara#readme"
+}
